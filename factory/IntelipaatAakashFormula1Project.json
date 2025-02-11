@@ -1,0 +1,9 @@
+{
+	"name": "IntelipaatAakashFormula1Project",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2b0313d2-30b4-4408-b19d-31008315c5a1",
+		"tenantId": "960142d4-7567-453f-b192-b445645b1794"
+	}
+}
